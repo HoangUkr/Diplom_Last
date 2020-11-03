@@ -1,0 +1,9 @@
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerNotify\bin\Debug\LanMessengerNotify.dll
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerNotify\bin\Debug\LanMessengerNotify.pdb
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerNotify\obj\Debug\LanMessengerNotify.csprojAssemblyReference.cache
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerNotify\obj\Debug\TrayBalloon.Properties.Resources.resources
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerNotify\obj\Debug\TrayBalloon.TrayBalloonFrm.resources
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerNotify\obj\Debug\LanMessengerNotify.csproj.GenerateResource.cache
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerNotify\obj\Debug\LanMessengerNotify.csproj.CoreCompileInputs.cache
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerNotify\obj\Debug\LanMessengerNotify.dll
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerNotify\obj\Debug\LanMessengerNotify.pdb

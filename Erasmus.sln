@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Erasmus", "Erasmus\Erasmus.csproj", "{34D0A45E-EB7D-4018-A5CF-E201076780A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database Server", "Database Server\Database Server.csproj", "{79B9C641-8DEC-4D8A-858B-7762638CF5B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanMessengerLib", "LanMessengerLib\LanMessengerLib.csproj", "{C37A15B1-525C-4BD9-9540-6F0C9FE3412F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanMessengerNotify", "LanMessengerNotify\LanMessengerNotify.csproj", "{9CCE8470-21D7-4115-8134-146132EED8DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanMessengerChatRoomBase", "LanMessengerChatRoomBase\LanMessengerChatRoomBase.csproj", "{EDE19B2A-980B-4DD3-9666-F25B01F710F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanMessengerContact", "LanMessengerContact\LanMessengerContact.csproj", "{604A4437-282F-4A76-BE11-C6D97ACB3188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34D0A45E-EB7D-4018-A5CF-E201076780A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D0A45E-EB7D-4018-A5CF-E201076780A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D0A45E-EB7D-4018-A5CF-E201076780A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D0A45E-EB7D-4018-A5CF-E201076780A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B9C641-8DEC-4D8A-858B-7762638CF5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B9C641-8DEC-4D8A-858B-7762638CF5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B9C641-8DEC-4D8A-858B-7762638CF5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B9C641-8DEC-4D8A-858B-7762638CF5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37A15B1-525C-4BD9-9540-6F0C9FE3412F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37A15B1-525C-4BD9-9540-6F0C9FE3412F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37A15B1-525C-4BD9-9540-6F0C9FE3412F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37A15B1-525C-4BD9-9540-6F0C9FE3412F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CCE8470-21D7-4115-8134-146132EED8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCE8470-21D7-4115-8134-146132EED8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCE8470-21D7-4115-8134-146132EED8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCE8470-21D7-4115-8134-146132EED8DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE19B2A-980B-4DD3-9666-F25B01F710F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE19B2A-980B-4DD3-9666-F25B01F710F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE19B2A-980B-4DD3-9666-F25B01F710F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE19B2A-980B-4DD3-9666-F25B01F710F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{604A4437-282F-4A76-BE11-C6D97ACB3188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604A4437-282F-4A76-BE11-C6D97ACB3188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604A4437-282F-4A76-BE11-C6D97ACB3188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604A4437-282F-4A76-BE11-C6D97ACB3188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB443DA6-72D8-473B-A61F-516C53501585}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\Database Server\bin\Debug\Temporary Server.exe.config
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\Database Server\bin\Debug\Temporary Server.exe
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\Database Server\bin\Debug\Temporary Server.pdb
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\Database Server\bin\Debug\LanMessengerLib.dll
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\Database Server\bin\Debug\LanMessengerLib.pdb
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\Database Server\obj\Debug\Database Server.csprojAssemblyReference.cache
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\Database Server\obj\Debug\Database Server.csproj.CoreCompileInputs.cache
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\Database Server\obj\Debug\Database Server.csproj.CopyComplete
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\Database Server\obj\Debug\Temporary Server.exe
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\Database Server\obj\Debug\Temporary Server.pdb

@@ -1,0 +1,11 @@
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerContact\bin\Debug\LanMessengerContact.dll
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerContact\bin\Debug\LanMessengerContact.pdb
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerContact\bin\Debug\LanMessengerLib.dll
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerContact\bin\Debug\LanMessengerLib.pdb
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerContact\obj\Debug\LanMessengerContact.csprojAssemblyReference.cache
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerContact\obj\Debug\LanMessengerControls.LanMessengerContact.resources
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerContact\obj\Debug\LanMessengerContact.csproj.GenerateResource.cache
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerContact\obj\Debug\LanMessengerContact.csproj.CoreCompileInputs.cache
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerContact\obj\Debug\LanMessengerContact.csproj.CopyComplete
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerContact\obj\Debug\LanMessengerContact.dll
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerContact\obj\Debug\LanMessengerContact.pdb

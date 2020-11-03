@@ -1,0 +1,6 @@
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.dll
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.pdb
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.csprojAssemblyReference.cache
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.csproj.CoreCompileInputs.cache
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.dll
+C:\Users\famsu\Desktop\Learning_materials\Semester_8\Diplom\Code\Version_5\Erasmus\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.pdb
